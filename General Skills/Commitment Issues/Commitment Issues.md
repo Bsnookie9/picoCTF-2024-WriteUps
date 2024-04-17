@@ -1,5 +1,5 @@
 # Overview
-- Tags: `picoCTF 2024` `General Skills`
+- Tags: `picoCTF 2024` `General Skills` `browser_webshell_solvable` `git`
 - `50 points`
 
 # Description
