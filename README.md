@@ -47,7 +47,7 @@ Here are the write-ups for the challenges I completed
 </details>
 
 <details>
-  <summary>General Skills (2/10)</summary>
+  <summary>General Skills (3/10)</summary>
 
   * [Super SSH](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Super%20SSH) (Solved)
   * [Commitment Issues](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Commitment%20Issues) (Unsolved)
@@ -55,10 +55,10 @@ Here are the write-ups for the challenges I completed
   * [Blame Game](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Blame%20Game) (Unsolved)
   * [Collaborative Development](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Collaborative%20Development) (Unsolved)
   * [binhexa](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/binhexa) (Solved)
-  * [Binary Search]() (Unsolved)
-  * [endianness]() (Unsolved)
-  * [dont-you-love-banners]() (Unsolved)
-  * [SansAlpha]() (Unsolved)
+  * [Binary Search](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Binary%20Search) (Unsolved)
+  * [endianness](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/endianness) (Unsolved)
+  * [dont-you-love-banners](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/dont-you-love-banners) (Unsolved)
+  * [SansAlpha](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/SansAlpha) (Solved)
     
 </details>
 
