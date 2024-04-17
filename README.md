@@ -47,7 +47,7 @@ Here are the write-ups for the challenges I completed
 </details>
 
 <details>
-  <summary>General Skills (1/10)</summary>
+  <summary>General Skills (2/10)</summary>
 
   * [Super SSH](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Super%20SSH) (Solved)
   * [Commitment Issues](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Commitment%20Issues) (Unsolved)
