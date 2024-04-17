@@ -1,7 +1,7 @@
 # picoCTF-2024-WriteUps
 
 # Overview
-Here are the write-ups for the challenges I completed
+Here are the write-ups for the picoCTF 2024 challenges.
 
 # Challenges
 <details>
