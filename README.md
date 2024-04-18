@@ -84,6 +84,6 @@ Here are the write-ups for the picoCTF 2024 challenges.
   * [Unminify](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Web%20Exploitation/Unminify) (Unsolved)
   * [No Sql Injection]() (Unsolved) (Under Maintenance)
   * [Trickster](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Web%20Exploitation/Trickster) (Unsolved)
-  * [elements]() (Unsolved)
+  * [elements](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Web%20Exploitation/elements) (Unsolved)
     
 </details>
