@@ -33,16 +33,16 @@ Here are the write-ups for the picoCTF 2024 challenges.
 </details>
 
 <details>
-  <summary>Forensics (0/8)</summary>
+  <summary>Forensics (2/8)</summary>
 
-  * [Scan Surprise]() (Solved)
-  * [Verify]() (Solved)
-  * [CanYouSee]() (Solved)
-  * [Secret of the Polyglot]() (Solved)
-  * [Mob psycho]() (Solved)
-  * [endianness-v2]() (Solved)
-  * [Blast from the past]() (Unsolved)
-  * [Dear Diary]() (Unsolved)
+  * [Scan Surprise](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/Scan%20Surprise) (Unsolved)
+  * [Verify](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/Verify) (Solved)
+  * [CanYouSee](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/CanYouSee) (Unsolved)
+  * [Secret of the Polyglot](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/Secret%20of%20the%20Polyglot) (Solved)
+  * [Mob psycho](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/Mob%20psycho) (Unsolved)
+  * [endianness-v2](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/endianness-v2) (Unsolved)
+  * [Blast from the past](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/Blast%20from%20the%20past) (Unsolved)
+  * [Dear Diary](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/Dear%20Diary) (Unsolved)
     
 </details>
 
@@ -76,9 +76,9 @@ Here are the write-ups for the picoCTF 2024 challenges.
 </details>
 
 <details>
-  <summary>Web Exploitation (0/7)</summary>
+  <summary>Web Exploitation (1/7)</summary>
 
-  * [Bookmarklet]() (Unsolved)
+  * [Bookmarklet](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Web%20Exploitation/Bookmarklet) (Solved)
   * [WebDecode]() (Unsolved)
   * [IntroToBurp]() (Unsolved)
   * [Unminify]() (Unsolved)
