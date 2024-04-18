@@ -76,10 +76,10 @@ Here are the write-ups for the picoCTF 2024 challenges.
 </details>
 
 <details>
-  <summary>Web Exploitation (1/7)</summary>
+  <summary>Web Exploitation (2/7)</summary>
 
   * [Bookmarklet](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Web%20Exploitation/Bookmarklet) (Solved)
-  * [WebDecode]() (Unsolved)
+  * [WebDecode](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Web%20Exploitation/WebDecode) (Solved)
   * [IntroToBurp]() (Unsolved)
   * [Unminify]() (Unsolved)
   * [No Sql Injection]() (Unsolved) (Under Maintenance)
