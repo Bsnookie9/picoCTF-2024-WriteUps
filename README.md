@@ -47,12 +47,12 @@ Here are the write-ups for the picoCTF 2024 challenges.
 </details>
 
 <details>
-  <summary>General Skills (5/10)</summary>
+  <summary>General Skills (6/10)</summary>
 
   * [Super SSH](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Super%20SSH)
   * [Commitment Issues](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Commitment%20Issues)
   * [Time Machine](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Time%20Machine)
-  * [Blame Game](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Blame%20Game) (Unsolved)
+  * [Blame Game](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Blame%20Game)
   * [Collaborative Development](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Collaborative%20Development) (Unsolved)
   * [binhexa](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/binhexa)
   * [Binary Search](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Binary%20Search) (Unsolved)
