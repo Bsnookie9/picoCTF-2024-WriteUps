@@ -33,14 +33,14 @@ Here are the write-ups for the picoCTF 2024 challenges.
 </details>
 
 <details>
-  <summary>Forensics (7/8)</summary>
+  <summary>Forensics (8/8)</summary>
 
   * [Scan Surprise](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/Scan%20Surprise)
   * [Verify](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/Verify)
   * [CanYouSee](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/CanYouSee)
   * [Secret of the Polyglot](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/Secret%20of%20the%20Polyglot)
   * [Mob psycho](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/Mob%20psycho)
-  * [endianness-v2](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/endianness-v2) (Unsolved)
+  * [endianness-v2](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/endianness-v2)
   * [Blast from the past](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/Blast%20from%20the%20past)
   * [Dear Diary](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Forensics/Dear%20Diary)
     
