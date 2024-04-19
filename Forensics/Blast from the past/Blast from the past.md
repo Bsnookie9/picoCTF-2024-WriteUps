@@ -19,3 +19,13 @@ Check your modified picture here:
 * Exiftool is really good at reading metadata, but you might want to use something else to modify it.
 
 # Solution
+This one was extremely tough for me understanding metadata manipulation with timestamps.   
+I used a write-up to complete this but I learned a lot from this. 
+
+This is the write-up I used: [Link](https://medium.com/@0xVirtu4l/picoctf-2024-blast-from-the-past-challenge-solve-6bb022ae520d)
+
+
+<kbd>![image](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/assets/106827110/9cb127a3-053b-4214-8267-f111c62219e0)</kbd>
+
+
+Flag: `picoCTF{71m3_7r4v311ng_p1c7ur3_ed953b57}`
