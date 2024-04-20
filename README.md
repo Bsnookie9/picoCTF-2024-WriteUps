@@ -81,7 +81,7 @@ Here are the write-ups for the picoCTF 2024 challenges.
   * [Bookmarklet](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Web%20Exploitation/Bookmarklet)
   * [WebDecode](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Web%20Exploitation/WebDecode)
   * [IntroToBurp](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Web%20Exploitation/IntroToBurp)
-  * [Unminify](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Web%20Exploitation/Unminify) (Unsolved)
+  * [Unminify](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Web%20Exploitation/Unminify)
   * [No Sql Injection]() (Unsolved) (Under Maintenance)
   * [Trickster](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Web%20Exploitation/Trickster) (Unsolved)
   * [elements](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Web%20Exploitation/elements) (Unsolved)
