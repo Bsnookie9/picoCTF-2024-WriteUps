@@ -47,7 +47,7 @@ Here are the write-ups for the picoCTF 2024 challenges.
 </details>
 
 <details>
-  <summary>General Skills (9/10)</summary>
+  <summary>General Skills (10/10)</summary>
 
   * [Super SSH](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Super%20SSH)
   * [Commitment Issues](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Commitment%20Issues)
@@ -56,7 +56,7 @@ Here are the write-ups for the picoCTF 2024 challenges.
   * [Collaborative Development](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Collaborative%20Development)
   * [binhexa](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/binhexa)
   * [Binary Search](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/Binary%20Search)
-  * [endianness](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/endianness) (Unsolved)
+  * [endianness](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/endianness)
   * [dont-you-love-banners](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/dont-you-love-banners)
   * [SansAlpha](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/General%20Skills/SansAlpha)
     
