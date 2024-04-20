@@ -46,7 +46,8 @@ The other branches must be where the flag is.
 
 To move branches, use the `git checkout` command. 
 
-$\color{#58A6FF}\textsf{\Large\&#x24D8;\kern{0.2cm}\normalsize Note}$: To find the current branch, use the `git status` command
+> [!NOTE]
+> To find the current branch, use the `git status` command
 
 Try this command: `git checkout feature/part-3` then `cat flag.py`.
 
@@ -89,6 +90,7 @@ Now run the following commands: `git add flag.py` and `git commit -m "picoCTF"`
 
 <kbd>![image](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/assets/106827110/6652f45e-7552-483b-8177-d504c511db11)</kbd>
 
+> [!IMPORTANT]
 > Repeat the steps above this line until you get to the main branch!
 
 Making the last commit into the main branch should look like this:
