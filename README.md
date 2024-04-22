@@ -23,11 +23,11 @@ Here are the write-ups for the picoCTF 2024 challenges.
 <details>
   <summary>Cryptography (0/5)</summary>
 
-  * [interencdec]() (Solved)
-  * [Custom encryption]() (Solved)
-  * [C3]() (Solved)
-  * [rsa_oracle]()  (Unsolved)
-  * [flag_printer]() (Unsolved)
+  * [interencdec](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Cryptography/interencdec) (Unsolved)
+  * [Custom encryption](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Cryptography/Custom%20encryption) (Unsolved)
+  * [C3](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Cryptography/C3) (Unsolved)
+  * [rsa_oracle](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Cryptography/rsa_oracle)  (Unsolved)
+  * [flag_printer](https://github.com/Bsnookie9/picoCTF-2024-WriteUps/tree/main/Cryptography/flag_printer) (Unsolved)
 
     
 </details>
