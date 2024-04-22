@@ -1,5 +1,5 @@
 # Overview
-- Tags: `picoCTF 2024` `Cryptography`
+- Tags: `picoCTF 2024` `Cryptography` `base64` `browser_webshell_solvable` `caesar`
 - `50 points`
 
 # Description
